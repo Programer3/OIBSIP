@@ -13,7 +13,7 @@ The page contains a navbar with links to different sections of the page, a heade
 To run this project locally, simply  download this repository as zip or you can clone this repository to your local machine using:
 
 ```
-git clone https://github.com/.git
+git clone https://github.com/Programer3/OIBSIP.git
 ```
 
 Then, open the Task 01- landing Page folder and open the `index.html` file in your browser or better,
