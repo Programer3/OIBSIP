@@ -1,6 +1,6 @@
 ## Task 02- Portfolio
 
-![image]()
+![image](task2.png)
 
 ## Description
 
